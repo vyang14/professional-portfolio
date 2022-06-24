@@ -13,3 +13,6 @@ Thank you for reading my portfolio. My portfolio includes a brief excerpt about
 https://vyang14.github.io/professional-portfolio/
 
 https://github.com/vyang14/professional-portfolio
+
+**Portfolio Preview:**
+![A preview of the top of the portfolio website](./assets/images/portpreview.png)
