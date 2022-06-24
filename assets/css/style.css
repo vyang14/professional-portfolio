@@ -10,7 +10,7 @@ body {
 }
 
 .header {
-    padding: 20px;
+    padding: 15px;
     background-color: #230633;
     color: #ffffff;
 }
@@ -36,6 +36,26 @@ body {
 .header p {
     font-size: 20px;
 }
+
+.header ul li {
+    display: inline-block;
+    margin: 30px;
+    font-size: 22px;
+    line-height: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    list-style-type: none;
+    align-items: center;
+}
+
+/* .navigation {
+    font-size: 22px;
+    line-height: 40px;
+    font-weight: bold;
+    text-decoration: underline;
+    list-style-type: none;
+    align-items: center;
+} */
 
 a {
     color: #ffffff;
@@ -177,7 +197,7 @@ p {
     bottom: -65%;
 }
 
-#title {
+#blog {
     font-size: 36px;
     font-weight: bolder;
     text-decoration: underline;
